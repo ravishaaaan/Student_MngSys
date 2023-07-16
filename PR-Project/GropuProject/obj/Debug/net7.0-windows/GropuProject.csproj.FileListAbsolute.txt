@@ -1,0 +1,868 @@
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+C:\Users\user'\source\repos\GropuProject\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\BillSystem.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\TheBill.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\BillSystem.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\TheBill.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\BillSystem.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\TheBill.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\BillSystem.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\TheBill.baml
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\BillSystem.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\TheBill.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\BillSystem.baml
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\Views\TheBill.baml
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\FluentAssertions.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\xunit.abstractions.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\xunit.assert.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\xunit.core.dll
+C:\Users\ASUS\Music\GropuProject7\GropuProject7\GropuProject\GropuProject\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\FluentAssertions.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.abstractions.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.assert.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.core.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+H:\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\App.baml
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+H:\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\FluentAssertions.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.abstractions.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.assert.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.core.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\RegS.g.cs
+C:\Users\New\Desktop\GropuProject-POS\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\RegS.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\FluentAssertions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.assert.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.core.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\RegS.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\RegS.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\App.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectA\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\FluentAssertions.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.abstractions.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.assert.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.core.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\RegS.baml
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\RegS.g.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+C:\Users\New\Desktop\P Finale\GropuProject-POS\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\FluentAssertions.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.abstractions.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.assert.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.core.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\RegS.baml
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\RegS.g.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Telegram Desktop\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.exe
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.deps.json
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.runtimeconfig.json
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\GropuProject.pdb
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\FluentAssertions.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Humanizer.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.abstractions.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.assert.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.core.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+H:\Project\PR-Project\PR-Project\GropuProject\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.AssemblyReference.cache
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\RegS.baml
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\Admin.g.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\RegS.g.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\Seller.g.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.g.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\App.g.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.cache
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject_MarkupCompile.lref
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\App.baml
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\MainWindow.baml
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\Admin.baml
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\AdminSub.baml
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\Seller.baml
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\Views\SellerSub.baml
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.g.resources
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfoInputs.cache
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.AssemblyInfo.cs
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CoreCompileInputs.cache
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.csproj.CopyComplete
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.dll
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\refint\GropuProject.dll
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.pdb
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\GropuProject.genruntimeconfig.cache
+H:\Project\PR-Project\PR-Project\GropuProject\obj\Debug\net7.0-windows\ref\GropuProject.dll

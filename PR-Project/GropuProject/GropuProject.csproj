@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\icons8-administrator-male-94.png" />
+    <None Remove="Images\icons8-bakery-shop-96 %281%29.png" />
+    <None Remove="Images\icons8-chef-64.png" />
+    <None Remove="Images\icons8-female-baker-96.png" />
+    <None Remove="IMG\3.png" />
+    <None Remove="IMG\6.png" />
+    <None Remove="IMG\BG1.png" />
+    <None Remove="IMG\LOGO2.png" />
+    <None Remove="IMG\New folder\2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
+    <PackageReference Include="FluentAssertions" Version="6.10.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="4.11.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="xunit" Version="2.4.2" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\icons8-administrator-male-94.png" />
+    <Resource Include="Images\icons8-bakery-shop-96 (1).png" />
+    <Resource Include="Images\icons8-chef-64.png" />
+    <Resource Include="Images\icons8-female-baker-96.png" />
+    <Resource Include="IMG\3.png" />
+    <Resource Include="IMG\6.png" />
+    <Resource Include="IMG\BG1.png" />
+    <Resource Include="IMG\LOGO2.png" />
+    <Resource Include="IMG\New folder\2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\Person1\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Views\AdminSubVM.cs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,110 @@
+﻿<Window x:Class="GropuProject.Views.RegS"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True"
+        Background="Transparent"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="1.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" CornerRadius="0 10 10 0">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                    <GradientStop Color="#291f48" Offset="0"/>
+                    <GradientStop Color="#1C1C1C" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+
+        <Image Source="/IMG/BG1.png" Stretch="UniformToFill" Opacity="0.1" />
+
+        <Border Background="#ffffff" Grid.Column="1" CornerRadius="10 0 0 10">
+            <Grid>
+                <Image Source="/IMG/WBG1.png" Stretch="UniformToFill" Opacity="0.1" />
+ 
+
+                <!-- Registered student list -->
+                <DataGrid x:Name="StudentsDataGrid" AutoGenerateColumns="False"
+                          HeadersVisibility="Column">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Student ID" Binding="{Binding StudentId}" Width="*"
+                                            FontWeight="Bold" />
+                        <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"
+                                            FontWeight="Bold"/>
+                        <DataGridTextColumn Header="EE001" Binding="{Binding Module1}" Width="*"
+                                            FontWeight="Bold"/>
+                        <DataGridTextColumn Header="EE002" Binding="{Binding Module2}" Width="*"
+                                            FontWeight="Bold"/>
+                        <DataGridTextColumn Header="EE003" Binding="{Binding Module3}" Width="*"
+                                            FontWeight="Bold"/>
+                        <DataGridTextColumn Header="EE004" Binding="{Binding Module4}" Width="*"
+                                            FontWeight="Bold"/>
+                        <DataGridTextColumn Header="EE005" Binding="{Binding Module5}" Width="*"
+                                            FontWeight="Bold"/>
+                        <DataGridTextColumn Header="Grade" Binding="{Binding Grade}" Width="*"
+                                            FontWeight="Bold"/>
+                        <DataGridTextColumn Header="GPA" Binding="{Binding GPA}" Width="*"
+                                            FontWeight="Bold"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </Border>
+
+        <!-- Input fields for student ID and module grades -->
+        <Grid Grid.Column="0" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+                <Label Content="Student ID:" Foreground="Yellow" FontWeight="Bold"/>
+                <TextBox x:Name="StudentIdTextBox" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1">
+                <Label Content="Add Grade For EE001:" Foreground="Yellow" FontWeight="Bold"/>
+                <TextBox x:Name="Module1TextBox" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2">
+                <Label Content="Add Grade For EE002:" Foreground="Yellow" FontWeight="Bold"/>
+                <TextBox x:Name="Module2TextBox" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3">
+                <Label Content="Add Grade For EE003:" Foreground="Yellow" FontWeight="Bold" />
+                <TextBox x:Name="Module3TextBox" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="4">
+                <Label Content="Add Grade For EE004:" Foreground="Yellow" FontWeight="Bold"/>
+                <TextBox x:Name="Module4TextBox" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="5">
+                <Label Content="Add Grade For EE005:" Foreground="Yellow" FontWeight="Bold" />
+                <TextBox x:Name="Module5TextBox" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+            </StackPanel>
+
+            <Button Content="Save Grades" Grid.Row="6" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Left" Width="100"
+                    Click="Button_Click"/>
+            
+            <Button Content="Back" Grid.Row="7" Margin="0,47,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="100"
+                Click="Button_Click_3"/>
+
+
+        </Grid>
+    </Grid>
+</Window>
